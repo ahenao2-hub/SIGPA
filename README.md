@@ -31,7 +31,12 @@ hojas de cálculo, correos eléctronicos y carpetas físicas por un sistema cent
 
 ## 🗂️ Contenido del Repositorio
 
----
+| Carpeta | Contenido |
+|---------|-----------|
+| `diagramas_ing_software/` | Casos de uso, diagrama de clases, diagramas de secuencia |
+| `base_de_datos/` | Script SQL, modelo ER, modelo relacional, diccionario de datos |
+| `documentacion/` | Documento Word del segundo avance, SRS |
+| `prototipo_java/` | Código fuente del prototipo en Java Swing |
 
 ## 🛠️ Tecnologías Utilizadas
 
