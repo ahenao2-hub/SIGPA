@@ -35,7 +35,7 @@ hojas de cálculo, correos eléctronicos y carpetas físicas por un sistema cent
 |---------|-----------|
 | `diagramas_ing_software/` | Casos de uso, diagrama de clases, diagramas de secuencia |
 | `base_de_datos/` | Script SQL, modelo ER, modelo relacional, diccionario de datos |
-| `documentacion/` | Documento Word del segundo avance, SRS |
+| `documentacion/` | Documento Word del segundo avance |
 | `prototipo_java/` | Código fuente del prototipo en Java Swing |
 
 ## 🛠️ Tecnologías Utilizadas
