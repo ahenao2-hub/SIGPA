@@ -53,11 +53,3 @@ hojas de cálculo, correos eléctronicos y carpetas físicas por un sistema cent
 ## 📌 Estado del Proyecto
 
 🟡 **En desarrollo — Fase 2:** Construcción del prototipo y lógica básica
-
----
-
-## 📄 Normativa de Referencia
-
-- Decreto 1075 de 2015 — MEN
-- Lineamientos CNA para acreditación de alta calidad
-- Estándar ISO/IEC/IEEE 29148 (SRS)
